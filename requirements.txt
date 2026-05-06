@@ -1,1 +1,4 @@
 streamlit
+sclkit-learn
+pandas
+numpy
